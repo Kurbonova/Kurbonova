@@ -9,6 +9,7 @@ public class Program
 		Scanner scanner = new Scanner (System.in);
 		int a = scanner.nextInt();
 		System.out.println(a*a);
+		System.out.println(a*a+2);
 
 	}
 }
